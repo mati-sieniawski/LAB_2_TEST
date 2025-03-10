@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
   cout << "Witaj w naszym programie!" << endl;
+  cout << "2 * 3 = " << multiply(2, 3) << endl; 
   return 0;
 } 
 
